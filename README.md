@@ -1,6 +1,6 @@
 ## Lista de afazeres
 
-
+![demo](https://github.com/ProgramadorLeandroSantos/React_app/blob/master/demostracao.gif)
 
 ## COMO UTILIZAR ?
 1 - Baixe ou clone esse repositório para sua maquina. <br/>
