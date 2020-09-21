@@ -1,2 +1,10 @@
-# React_app
-Aplicação onde o meu estudo foi  sobre alguns fundamentos do React JS
+## Lista de afazeres
+
+
+
+## COMO UTILIZAR ?
+1 - Baixe ou clone esse repositório para sua maquina. <br/>
+2 - Execute `npm install` no diretório do projeto, para instalar as dependências da aplicação. <br/>
+3 - Agora execute `yarn start` ou `npm start` para iniciar o servidor de desenvolvimento
+
+##### OBS: A BASE DE DADOS UTILIZADA É APENAS PARA SIMULAR UMA REQUISIÇÃO FEITA AO BANCO DE DADOS
