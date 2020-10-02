@@ -1,4 +1,4 @@
-## Listagem Simples 0
+## Listagem Simples
 
 ![demo](https://github.com/ProgramadorLeandroSantos/React_app/blob/master/demostracao.gif)
 
